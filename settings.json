@@ -8,7 +8,7 @@
   "server": {
     "ip": "S1MPLE-D4dn.aternos.me",
     "port": 38407,
-    "version": "26.3",
+    "version": "false",
     "try-creative": false
   },
   "position": {
