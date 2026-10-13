@@ -29,9 +29,9 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 6000,
+      "repeat-delay": 60000,
       "messages": [
-        "our discord servers ip:https://discord.gg/ksnEWKrkA"
+        "our discord servers ip:https://discord.gg/9pzB5pj3R"
      
       ]
     },
